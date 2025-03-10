@@ -1,0 +1,4 @@
+Transaction: là một chuỗi các thao tác như thêm, sửa, xóa dữ liệu trong cơ sở dữ liệu, được thực hiện theo cách mà hoặc là tất cả thành công, hoặc là tất cả thất bại . Không có trạng thái trung gian
+Trigger: giống như một "người giám sát" trong cơ sở dữ liệu. Khi bạn làm gì đó với dữ liệu như thêm, sửa, xóa, nó sẽ "nhảy vào" và thực hiện một nhiệm vụ mà bạn đã lập trình sẵn.
+Procedure: là một tập hợp các câu lệnh (thường là SQL) được đặt tên, lưu trữ trong cơ sở dữ liệu, và có thể được gọi để thực thi bất kỳ lúc nào.Nó được xem  giống như một "hàm" hoặc "chương trình nhỏ" viết sẵn, sau đó chỉ cần gọi tên để sử dụng, thay vì viết lại mã nhiều lần.
+ Index: trong cơ sở dữ liệu giống như mục lục của một cuốn sách. Nó giúp  tìm dữ liệu nhanh hơn thay vì phải xem từng dòng trong bảng.
